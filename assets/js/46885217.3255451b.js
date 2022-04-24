@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev=self.webpackChunkdev||[]).push([[416],{9141:function(a){a.exports=JSON.parse('{"Gatsby":{"allTagsPath":"/dev/blog/tags","name":"Gatsby","count":1,"permalink":"/dev/blog/tags/gatsby"}}')}}]);
