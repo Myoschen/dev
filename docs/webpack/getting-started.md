@@ -1,6 +1,6 @@
 ---
-title: Webpack 初次上手
-description: 記錄使用 Webpack 工具的過程。
+title: Getting Started
+description: getting started with webpack tool.
 ---
 
 ## 安裝

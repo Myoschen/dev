@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Myos',
   tagline: '這是我個人的 Docs 及 Blog。',
-  url: 'https://willy14620.github.io',
+  url: 'https://myoschen.github.io',
   baseUrl: '/dev/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'willy14620', // Usually your GitHub org/user name.
+  organizationName: 'Myoschen', // Usually your GitHub org/user name.
   projectName: 'dev', // Usually your repo name.
   trailingSlash: false,
 
@@ -23,15 +23,16 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/willy14620/dev/tree/gh-pages',
+          editUrl: 'https://github.com/Myoschen/dev/tree/gh-pages',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/willy14620/dev/tree/gh-pages',
+            'https://github.com/Myoschen/dev/tree/gh-pages',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -52,13 +53,13 @@ const config = {
         items: [ // navbar items
           {
             type: 'doc', 
-            docId: 'about', // first page when you enter the docs
+            docId: 'docs-tips', // first page when you enter the docs
             position: 'left', // position
             label: 'Docs', // display name
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/willy14620',
+            href: 'https://github.com/Myoschen',
             label: 'GitHub',
             position: 'right',
           },
@@ -77,15 +78,15 @@ const config = {
             items: [
               // {
               //   label: 'React',
-              //   to: '/docs/react',
+              //   to: '/react',
               // },
               // {
               //   label: 'Tailwind CSS',
-              //   to: '/docs/tailwind-css',
+              //   to: '/tailwind-css',
               // },
               {
                 label: 'Webpack',
-                to: '/docs/webpack/webpack-getting-started',
+                to: '/webpack/getting-started',
               },
             ],
           },
@@ -115,12 +116,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/willy14620',
+                href: 'https://github.com/Myoschen',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} willy14620. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Myoschen. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -1,8 +1,8 @@
 ---
-slug: from-hexo-to-gatsby
 title: 從 Hexo 到 Gatsby
 authors: [myos]
 tags: [Gatsby]
+slug: from-hexo-to-gatsby
 ---
 
 ## 前言
