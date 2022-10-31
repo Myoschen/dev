@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev=self.webpackChunkdev||[]).push([[646],{7882:e=>{e.exports=JSON.parse('{"label":"Flexbox","permalink":"/dev/tags/flexbox","allTagsPath":"/dev/tags","count":1,"items":[{"id":"css/flexbox","title":"Flexbox","description":"Learn how to use flexbox.","permalink":"/dev/css/flexbox"}]}')}}]);

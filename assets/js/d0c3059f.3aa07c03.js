@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev=self.webpackChunkdev||[]).push([[212],{5461:t=>{t.exports=JSON.parse('{"label":"Spring Boot","permalink":"/dev/tags/spring-boot","allTagsPath":"/dev/tags","count":1,"items":[{"id":"java/spring-boot","title":"Spring Boot","description":"Getting started with Spring Boot.","permalink":"/dev/java/spring-boot"}]}')}}]);

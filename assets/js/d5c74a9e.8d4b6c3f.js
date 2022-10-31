@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev=self.webpackChunkdev||[]).push([[120],{6038:e=>{e.exports=JSON.parse('{"label":"Zod","permalink":"/dev/tags/zod","allTagsPath":"/dev/tags","count":1,"items":[{"id":"react/zod","title":"Zod","description":"Validating your data with Zod.","permalink":"/dev/react/zod"}]}')}}]);

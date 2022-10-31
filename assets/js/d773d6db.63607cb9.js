@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev=self.webpackChunkdev||[]).push([[247],{6901:e=>{e.exports=JSON.parse('{"label":"Grid","permalink":"/dev/tags/grid","allTagsPath":"/dev/tags","count":1,"items":[{"id":"css/grid","title":"Grid","description":"Learn how to use grid.","permalink":"/dev/css/grid"}]}')}}]);

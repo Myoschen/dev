@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev=self.webpackChunkdev||[]).push([[734],{4189:e=>{e.exports=JSON.parse('{"label":"Webpack","permalink":"/dev/tags/webpack","allTagsPath":"/dev/tags","count":1,"items":[{"id":"webpack/getting-started","title":"Getting Started","description":"Getting started with webpack tool.","permalink":"/dev/webpack/getting-started"}]}')}}]);
